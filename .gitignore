@@ -1,6 +1,6 @@
 #####################################################
 # 
-#		GITIGNORE - WORDPRESS - v2.0
+#		GITIGNORE - WORDPRESS - v2.0.1
 #
 #####################################################
 
@@ -17,6 +17,7 @@ config.rb
 .codekit-cache
 .sass-cache
 node_modules
+wp-config-local.php
 
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -78,19 +79,6 @@ wp/wp-content/themes/twentytwenty/*
 # directories
 #~~~~~~~~~~~~~~~~~~~~~~~~~~
 wp/cache/*
+wp/wp-content/cache/*
 wp/wp-content/uploads/*
 wp/wp-content/upgrade/*
-
-
-# igoo dev
-#~~~~~~~~~~~~~~~~~~~~~~~~~~
-wp-config-local.php
-
-
-
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# 	Site specific
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-# nada
-
