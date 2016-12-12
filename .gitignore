@@ -17,7 +17,6 @@ config.rb
 .codekit-cache
 .sass-cache
 node_modules
-wp-config-local.php
 
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
